@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mehdi Kh\\source\\repos\\Hospital management_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26AE5D1A-9969-4E8E-8616-2A86E8D2C012}|Hospital management_Project\\Hospital management_Project.csproj|c:\\users\\mehdi kh\\source\\repos\\hospital management_project\\hospital management_project\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AE5D1A-9969-4E8E-8616-2A86E8D2C012}|Hospital management_Project\\Hospital management_Project.csproj|solutionrelative:hospital management_project\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AE5D1A-9969-4E8E-8616-2A86E8D2C012}|Hospital management_Project\\Hospital management_Project.csproj|c:\\users\\mehdi kh\\source\\repos\\hospital management_project\\hospital management_project\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AE5D1A-9969-4E8E-8616-2A86E8D2C012}|Hospital management_Project\\Hospital management_Project.csproj|solutionrelative:hospital management_project\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AE5D1A-9969-4E8E-8616-2A86E8D2C012}|Hospital management_Project\\Hospital management_Project.csproj|c:\\users\\mehdi kh\\source\\repos\\hospital management_project\\hospital management_project\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AE5D1A-9969-4E8E-8616-2A86E8D2C012}|Hospital management_Project\\Hospital management_Project.csproj|solutionrelative:hospital management_project\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AE5D1A-9969-4E8E-8616-2A86E8D2C012}|Hospital management_Project\\Hospital management_Project.csproj|c:\\users\\mehdi kh\\source\\repos\\hospital management_project\\hospital management_project\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AE5D1A-9969-4E8E-8616-2A86E8D2C012}|Hospital management_Project\\Hospital management_Project.csproj|solutionrelative:hospital management_project\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AE5D1A-9969-4E8E-8616-2A86E8D2C012}|Hospital management_Project\\Hospital management_Project.csproj|c:\\users\\mehdi kh\\source\\repos\\hospital management_project\\hospital management_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AE5D1A-9969-4E8E-8616-2A86E8D2C012}|Hospital management_Project\\Hospital management_Project.csproj|solutionrelative:hospital management_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AE5D1A-9969-4E8E-8616-2A86E8D2C012}|Hospital management_Project\\Hospital management_Project.csproj|c:\\users\\mehdi kh\\source\\repos\\hospital management_project\\hospital management_project\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AE5D1A-9969-4E8E-8616-2A86E8D2C012}|Hospital management_Project\\Hospital management_Project.csproj|solutionrelative:hospital management_project\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 272,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mehdi Kh\\source\\repos\\Hospital management_Project\\Hospital management_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Hospital management_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\Mehdi Kh\\source\\repos\\Hospital management_Project\\Hospital management_Project\\Program.cs",
+              "RelativeToolTip": "Hospital management_Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:37:01.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Mehdi Kh\\source\\repos\\Hospital management_Project\\Hospital management_Project\\Patient.cs",
+              "RelativeDocumentMoniker": "Hospital management_Project\\Patient.cs",
+              "ToolTip": "C:\\Users\\Mehdi Kh\\source\\repos\\Hospital management_Project\\Hospital management_Project\\Patient.cs",
+              "RelativeToolTip": "Hospital management_Project\\Patient.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAawBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:35:37.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Mehdi Kh\\source\\repos\\Hospital management_Project\\Hospital management_Project\\Person.cs",
+              "RelativeDocumentMoniker": "Hospital management_Project\\Person.cs",
+              "ToolTip": "C:\\Users\\Mehdi Kh\\source\\repos\\Hospital management_Project\\Hospital management_Project\\Person.cs",
+              "RelativeToolTip": "Hospital management_Project\\Person.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:36:21.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Mehdi Kh\\source\\repos\\Hospital management_Project\\Hospital management_Project\\Doctor.cs",
+              "RelativeDocumentMoniker": "Hospital management_Project\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Mehdi Kh\\source\\repos\\Hospital management_Project\\Hospital management_Project\\Doctor.cs",
+              "RelativeToolTip": "Hospital management_Project\\Doctor.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:27:49.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Mehdi Kh\\source\\repos\\Hospital management_Project\\Hospital management_Project\\Room.cs",
+              "RelativeDocumentMoniker": "Hospital management_Project\\Room.cs",
+              "ToolTip": "C:\\Users\\Mehdi Kh\\source\\repos\\Hospital management_Project\\Hospital management_Project\\Room.cs",
+              "RelativeToolTip": "Hospital management_Project\\Room.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAMwCQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:08:15.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "C:\\Users\\Mehdi Kh\\source\\repos\\Hospital management_Project\\Hospital management_Project\\Hospital.cs",
+              "RelativeDocumentMoniker": "Hospital management_Project\\Hospital.cs",
+              "ToolTip": "C:\\Users\\Mehdi Kh\\source\\repos\\Hospital management_Project\\Hospital management_Project\\Hospital.cs",
+              "RelativeToolTip": "Hospital management_Project\\Hospital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:03:55.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

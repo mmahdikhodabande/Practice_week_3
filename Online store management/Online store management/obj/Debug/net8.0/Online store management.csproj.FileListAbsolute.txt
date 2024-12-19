@@ -1,0 +1,14 @@
+C:\Users\Mehdi Kh\source\repos\Online store management\Online store management\bin\Debug\net8.0\Online store management.exe
+C:\Users\Mehdi Kh\source\repos\Online store management\Online store management\bin\Debug\net8.0\Online store management.deps.json
+C:\Users\Mehdi Kh\source\repos\Online store management\Online store management\bin\Debug\net8.0\Online store management.runtimeconfig.json
+C:\Users\Mehdi Kh\source\repos\Online store management\Online store management\bin\Debug\net8.0\Online store management.dll
+C:\Users\Mehdi Kh\source\repos\Online store management\Online store management\bin\Debug\net8.0\Online store management.pdb
+C:\Users\Mehdi Kh\source\repos\Online store management\Online store management\obj\Debug\net8.0\Online store management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehdi Kh\source\repos\Online store management\Online store management\obj\Debug\net8.0\Online store management.AssemblyInfoInputs.cache
+C:\Users\Mehdi Kh\source\repos\Online store management\Online store management\obj\Debug\net8.0\Online store management.AssemblyInfo.cs
+C:\Users\Mehdi Kh\source\repos\Online store management\Online store management\obj\Debug\net8.0\Online store management.csproj.CoreCompileInputs.cache
+C:\Users\Mehdi Kh\source\repos\Online store management\Online store management\obj\Debug\net8.0\Online store management.dll
+C:\Users\Mehdi Kh\source\repos\Online store management\Online store management\obj\Debug\net8.0\refint\Online store management.dll
+C:\Users\Mehdi Kh\source\repos\Online store management\Online store management\obj\Debug\net8.0\Online store management.pdb
+C:\Users\Mehdi Kh\source\repos\Online store management\Online store management\obj\Debug\net8.0\Online store management.genruntimeconfig.cache
+C:\Users\Mehdi Kh\source\repos\Online store management\Online store management\obj\Debug\net8.0\ref\Online store management.dll
